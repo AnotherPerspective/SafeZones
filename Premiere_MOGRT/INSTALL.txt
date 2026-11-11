@@ -1,0 +1,109 @@
+===================================================================
+ ANOTHER PERSPECTIVE SAFEZONES - MOTION GRAPHICS TEMPLATE
+ FOR ADOBE PREMIERE PRO - INSTALLING AND USING IT
+ (Italiano piu' sotto)
+===================================================================
+
+The file to install is:  AnotherPerspective_SafeZones_v4.2.mogrt
+In Premiere it appears with the name "Another Perspective Safezones".
+The interface graphics are already inside the file.
+Free and experimental, without any warranty: read AVVERTENZE.md.
+
+
+-------------------------------------------------------------------
+INSTALLING
+-------------------------------------------------------------------
+Premiere Pro 2025 and later:
+   Graphics and Titles menu >
+   Install Motion Graphics Template, and choose the .mogrt file.
+   Or drag the .mogrt into the Graphics Templates panel.
+
+Older versions:
+   Window > Essential Graphics > Browse tab,
+   "Install Motion Graphics Template" icon, bottom right.
+
+
+-------------------------------------------------------------------
+HOW TO USE IT
+-------------------------------------------------------------------
+1. In the Graphics Templates panel (or Essential Graphics > Browse)
+   search for "Another Perspective Safezones".
+2. Drag it onto the highest video track and stretch it over the
+   whole duration you need.
+3. Select the clip: the controls are in the Properties panel
+   (Premiere 2025) or in Essential Graphics > Edit. Their names are
+   still in Italian:
+   - Piattaforma (Platform): the platform to check (or all of them).
+   - Modalita (Mode): organic safe area, official ads safe area,
+     interface mockup, mockup and safe area.
+   - Telefono (Phone): modern phone or 16:9 (with navigation bar).
+     It changes TikTok, TikTok full screen, Instagram Reels,
+     YouTube Shorts and Snapchat Spotlight.
+   - Elementi occasionali (Occasional elements): also takes into
+     account elements that appear only sometimes (Instagram Reels
+     friends bubble, Facebook Stories volume button). It applies to
+     Instagram Reels and Facebook Stories in "Safe area organica"
+     (organic safe area).
+4. The template is 1080x1920: on a 9:16 sequence with a different
+   resolution (e.g. 2160x3840) adjust the scale in Effect Controls >
+   Motion.
+
+!! BEFORE RENDERING: disable the template clip (right-click >
+   Enable) or switch off the track, otherwise it ends up in the
+   exported video.
+
+
+===================================================================
+ ITALIANO - MOTION GRAPHICS TEMPLATE PER ADOBE PREMIERE PRO
+ INSTALLAZIONE E USO
+===================================================================
+
+Il file da installare e':  AnotherPerspective_SafeZones_v4.2.mogrt
+In Premiere compare con il nome "Another Perspective Safezones".
+Le grafiche delle interfacce sono gia' dentro il file.
+Gratuito e sperimentale, senza garanzie: leggi AVVERTENZE.md.
+
+
+-------------------------------------------------------------------
+INSTALLAZIONE
+-------------------------------------------------------------------
+Premiere Pro 2025 e successivi:
+   menu Grafica e titoli (Graphics and Titles) >
+   Installa modello di grafica animata (Install Motion Graphics Template)
+   e scegli il file .mogrt.
+   In alternativa trascina il .mogrt nel pannello
+   Modelli di grafica (Graphics Templates).
+
+Versioni precedenti:
+   Finestra > Grafica essenziale (Essential Graphics) > scheda Sfoglia,
+   icona "Installa Motion Graphics Template" in basso a destra.
+
+
+-------------------------------------------------------------------
+COME USARLO
+-------------------------------------------------------------------
+1. Nel pannello Modelli di grafica (o Grafica essenziale > Sfoglia)
+   cerca "Another Perspective Safezones".
+2. Trascinalo sulla traccia video piu' alta e allungalo per tutta la
+   durata che ti serve.
+3. Seleziona la clip: i controlli sono nel pannello Proprieta'
+   (Premiere 2025) o in Grafica essenziale > Modifica.
+   - Piattaforma: la piattaforma da controllare (o tutte insieme).
+   - Modalita: safe area organica, safe area ads ufficiale,
+     mockup interfaccia, mockup e safe area.
+   - Telefono: telefono moderno oppure 16:9 (con barra di navigazione).
+     Cambia TikTok, TikTok schermo pieno, Instagram Reels,
+     YouTube Shorts e Snapchat Spotlight.
+   - Elementi occasionali: tiene conto anche degli elementi che
+     compaiono solo a volte (bolla amici di Instagram Reels, tasto
+     volume delle storie Facebook). Vale per Instagram Reels e
+     Facebook Stories in "Safe area organica".
+4. Il template e' 1080x1920: su una sequenza 9:16 di altra risoluzione
+   (es. 2160x3840) adatta la scala dal pannello Effetti > Movimento.
+
+!! PRIMA DEL RENDER: disattiva la clip del template (tasto destro >
+   Abilita) o spegni la traccia, altrimenti finisce nel video esportato.
+
+
+Powered by Another Perspective Pictures
+https://www.anotherperspectivepictures.com

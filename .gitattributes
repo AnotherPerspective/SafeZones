@@ -1,0 +1,6 @@
+* text=auto
+*.drfx binary
+*.mogrt binary
+*.jpg binary
+*.png binary
+*.zip binary

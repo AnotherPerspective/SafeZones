@@ -1,0 +1,161 @@
+===================================================================
+ ANOTHER PERSPECTIVE SAFEZONES - FUSION TITLE FOR DAVINCI RESOLVE
+ INSTALLING AND USING IT
+ (Italiano piu' sotto)
+===================================================================
+
+The file to install is:  AnotherPerspective_SafeZones_v4.2.drfx
+It is a Fusion title: in DaVinci Resolve it appears with the name
+"Another Perspective Safezones" and the Another Perspective Pictures
+icon. The interface graphics are already inside the file.
+Tested on DaVinci Resolve 21 Studio.
+Free and experimental, without any warranty: read AVVERTENZE.md.
+
+
+-------------------------------------------------------------------
+INSTALLING (same on Windows and Mac)
+-------------------------------------------------------------------
+1. Open Resolve and any project.
+2. Go to the FUSION page and open the Effects Library
+   ("Effects" button, top left).
+3. In the "Templates" section, right-click any folder
+   > "Show Folder": the Templates folder opens.
+4. Copy AnotherPerspective_SafeZones_v4.2.drfx directly into that
+   "Templates" folder (not into a subfolder).
+5. Close and reopen Resolve: the title is loaded only at startup.
+
+If you had an older version of the title (a .drfx file with a
+different name, e.g. SafeZones_APP_v1.0.drfx or SafeZones_APP_v1.1.drfx),
+remove it from the folder before reopening Resolve.
+
+
+-------------------------------------------------------------------
+MANUAL PATHS
+-------------------------------------------------------------------
+WINDOWS
+   C:\Users\<user>\AppData\Roaming\Blackmagic Design\DaVinci Resolve\Support\Fusion\Templates\
+
+   "AppData" is a hidden folder: the quickest way is to type
+   %APPDATA%\Blackmagic Design\DaVinci Resolve\Support\Fusion\Templates
+   in the address bar of File Explorer and press Enter.
+
+MAC
+   ~/Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Templates/
+
+   In Finder: Go > Go to Folder... (Cmd+Shift+G), paste the path
+   and press Enter.
+
+If the path does not match, use the "Show Folder" method above:
+it always points to the right folder.
+
+
+-------------------------------------------------------------------
+HOW TO USE IT
+-------------------------------------------------------------------
+1. EDIT page > Effects (top left) > Toolbox > Titles >
+   "Fusion Titles" section > "Another Perspective Safezones".
+2. Drag it onto the highest video track and stretch it over the
+   whole duration you need.
+3. Select the title and open the Inspector: the controls are in the
+   title tab. Their names are still in Italian:
+   - Piattaforma (Platform): the platform to check (or all of them).
+   - Modalita (Mode): organic safe area, official ads safe area,
+     interface mockup, mockup and safe area.
+   - Telefono (Phone): modern phone or 16:9 (with navigation bar).
+     It changes TikTok, TikTok full screen, Instagram Reels,
+     YouTube Shorts and Snapchat Spotlight.
+   - Elementi occasionali (Occasional elements): also takes into
+     account elements that appear only sometimes (Instagram Reels
+     friends bubble, Facebook Stories volume button). It applies to
+     Instagram Reels and Facebook Stories in "Safe area organica"
+     (organic safe area).
+
+!! BEFORE RENDERING: turn the title off, otherwise it ends up in the
+   exported video. Select it in the timeline and press D (or switch
+   off the track it is on).
+
+If the title does not appear in the list: check that the file is
+directly in "Templates", that the extension is .drfx (not .drfx.zip),
+and restart Resolve.
+
+
+===================================================================
+ ITALIANO - TITOLO FUSION PER DAVINCI RESOLVE - INSTALLAZIONE E USO
+===================================================================
+
+Il file da installare e':  AnotherPerspective_SafeZones_v4.2.drfx
+E' un titolo Fusion: in DaVinci Resolve compare con il nome
+"Another Perspective Safezones" e con l'icona Another Perspective
+Pictures. Le grafiche delle interfacce sono gia' dentro il file.
+Provato su DaVinci Resolve 21 Studio.
+Gratuito e sperimentale, senza garanzie: leggi AVVERTENZE.md.
+
+
+-------------------------------------------------------------------
+INSTALLAZIONE (uguale su Windows e Mac)
+-------------------------------------------------------------------
+1. Apri Resolve e un progetto qualsiasi.
+2. Vai nella pagina FUSION e apri la Effects Library
+   (pulsante "Effects" in alto a sinistra).
+3. Nella sezione "Templates", tasto destro su una cartella qualsiasi
+   > "Show Folder": si apre la cartella dei Templates.
+4. Copia AnotherPerspective_SafeZones_v4.2.drfx direttamente in
+   quella cartella "Templates" (non in una sottocartella).
+5. Chiudi e riapri Resolve: il titolo viene caricato solo all'avvio.
+
+Se avevi una versione precedente del titolo (file .drfx con nome
+diverso, es. SafeZones_APP_v1.0.drfx o SafeZones_APP_v1.1.drfx),
+toglila dalla cartella prima di riaprire Resolve.
+
+
+-------------------------------------------------------------------
+PERCORSI MANUALI
+-------------------------------------------------------------------
+WINDOWS
+   C:\Users\<utente>\AppData\Roaming\Blackmagic Design\DaVinci Resolve\Support\Fusion\Templates\
+
+   "AppData" e' una cartella nascosta: il modo piu' rapido e'
+   scrivere  %APPDATA%\Blackmagic Design\DaVinci Resolve\Support\Fusion\Templates
+   nella barra degli indirizzi di Esplora File e premere Invio.
+
+MAC
+   ~/Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Templates/
+
+   Nel Finder: menu Vai > Vai alla cartella... (Cmd+Shift+G),
+   incolla il percorso e premi Invio.
+
+Se il percorso non corrisponde, usa il metodo "Show Folder" qui sopra:
+indica sempre la cartella giusta.
+
+
+-------------------------------------------------------------------
+COME USARLO
+-------------------------------------------------------------------
+1. Pagina EDIT > Effects (in alto a sinistra) > Toolbox > Titles >
+   sezione "Fusion Titles" > "Another Perspective Safezones".
+2. Trascinalo sulla traccia video piu' alta e allungalo per tutta la
+   durata che ti serve.
+3. Seleziona il titolo e apri l'Inspector: nella scheda del titolo
+   trovi i controlli.
+   - Piattaforma: la piattaforma da controllare (o tutte insieme).
+   - Modalita: safe area organica, safe area ads ufficiale,
+     mockup interfaccia, mockup e safe area.
+   - Telefono: telefono moderno oppure 16:9 (con barra di navigazione).
+     Cambia TikTok, TikTok schermo pieno, Instagram Reels,
+     YouTube Shorts e Snapchat Spotlight.
+   - Elementi occasionali: tiene conto anche degli elementi che
+     compaiono solo a volte (bolla amici di Instagram Reels, tasto
+     volume delle storie Facebook). Vale per Instagram Reels e
+     Facebook Stories in "Safe area organica".
+
+!! PRIMA DEL RENDER: disattiva il titolo, altrimenti finisce nel video
+   esportato. Selezionalo nella timeline e premi D (oppure spegni la
+   traccia su cui si trova).
+
+Se il titolo non compare nella lista: controlla che il file sia
+direttamente in "Templates", che l'estensione sia .drfx (e non
+.drfx.zip) e riavvia Resolve.
+
+
+Powered by Another Perspective Pictures
+https://www.anotherperspectivepictures.com

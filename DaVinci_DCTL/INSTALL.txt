@@ -1,0 +1,164 @@
+===================================================================
+ SAFE ZONES - INSTALLING IN DAVINCI RESOLVE (DCTL)
+ (Italiano piu' sotto)
+===================================================================
+
+The plugin is the file:  AnotherPerspective_SafeZones.dctl
+(with the "Powered by Another Perspective Pictures" line, which you
+can switch off).
+It needs DaVinci Resolve STUDIO: the free version does not run DCTLs.
+The interface graphics are drawn by the plugin itself: there are no
+images to import.
+Free and experimental, without any warranty: read AVVERTENZE.md.
+
+
+-------------------------------------------------------------------
+EASIEST METHOD (same on Windows and Mac)
+-------------------------------------------------------------------
+1. Open Resolve and any project.
+2. File > Project Settings (gear icon, bottom right)
+   > Color Management > "Lookup Tables" section.
+3. Click "Open LUT Folder": the right folder opens.
+4. Copy AnotherPerspective_SafeZones.dctl into it
+   (you can also create a subfolder, e.g. "APP").
+5. Back in Resolve, click "Update Lists" (same window),
+   or close and reopen Resolve.
+
+
+-------------------------------------------------------------------
+MANUAL PATHS
+-------------------------------------------------------------------
+WINDOWS
+   C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\LUT\
+
+   Do NOT use the folder
+   C:\Users\<user>\AppData\Roaming\Blackmagic Design\DaVinci Resolve\Support\.LUT\DCTL
+   (with a dot before LUT): it is the internal cache where Resolve
+   keeps DCTLs it has already compiled (*.dctle_3_mathlut files).
+   A .dctl placed there is not read.
+
+   Note: "ProgramData" is a hidden folder. The quickest way is to
+   paste the path above into the address bar of File Explorer and
+   press Enter. Windows may ask for administrator permission to copy
+   the file.
+
+MAC
+   /Library/Application Support/Blackmagic Design/DaVinci Resolve/LUT/
+
+   Careful: this is the SYSTEM Library (at the root of the disk),
+   NOT your user Library (~/Library).
+   In Finder: Go > Go to Folder... (Cmd+Shift+G), paste the path
+   and press Enter. You will be asked for your password.
+
+LINUX
+   /opt/resolve/LUT/
+
+
+-------------------------------------------------------------------
+HOW TO USE IT
+-------------------------------------------------------------------
+The DCTL is applied in the COLOR page, on a node.
+
+1. (in EDIT, optional but handy) Effects > Toolbox > Effects >
+   "Adjustment Clip": drag it onto the highest video track, across
+   the whole timeline. This way the overlay applies to every clip
+   below it.
+2. Go to COLOR and select that clip (or the clip you want to see it
+   on).
+3. OpenFX panel > Filters > ResolveFX Color > "DCTL": drag it onto
+   the node (or create a new serial node and drag it onto that).
+4. In the effect settings, DCTL List > choose
+   "AnotherPerspective_SafeZones".
+5. Choose Platform and Mode (Safe area / Mockup). In the plugin the
+   controls still have Italian names: Piattaforma = Platform,
+   Modalita = Mode, Telefono = Phone.
+
+!! BEFORE RENDERING: turn the overlay off, otherwise it ends up in the
+   exported video. In COLOR just disable the node (press D with the
+   node selected); if you used the Adjustment Clip, select it in EDIT
+   and press D.
+
+If the overlay appears upside down: tick "Correggi se capovolto"
+("Fix if upside down").
+If the file does not appear in the DCTL list, or gives an error:
+check that the extension is .dctl (not .dctl.txt) and run
+"Update Lists" again.
+
+
+===================================================================
+ ITALIANO - SAFE ZONES VERTICALE - INSTALLAZIONE IN DAVINCI RESOLVE
+===================================================================
+
+Il plugin e' il file:  AnotherPerspective_SafeZones.dctl
+(con la scritta "Powered by Another Perspective Pictures", disattivabile).
+Serve DaVinci Resolve STUDIO: la versione gratuita non esegue i DCTL.
+La grafica delle interfacce e' disegnata dentro il plugin: non ci sono
+immagini da importare.
+Gratuito e sperimentale, senza garanzie: leggi AVVERTENZE.md.
+
+
+-------------------------------------------------------------------
+METODO PIU' SEMPLICE (uguale su Windows e Mac)
+-------------------------------------------------------------------
+1. Apri Resolve e un progetto qualsiasi.
+2. File > Project Settings (ingranaggio in basso a destra)
+   > Color Management > sezione "Lookup Tables".
+3. Clicca "Open LUT Folder": si apre la cartella giusta.
+4. Copia li' dentro AnotherPerspective_SafeZones.dctl
+   (puoi anche creare una sottocartella, es. "APP").
+5. Torna in Resolve e clicca "Update Lists" (nella stessa finestra),
+   oppure chiudi e riapri Resolve.
+
+
+-------------------------------------------------------------------
+PERCORSI MANUALI
+-------------------------------------------------------------------
+WINDOWS
+   C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\LUT\
+
+   NON usare la cartella
+   C:\Users\<utente>\AppData\Roaming\Blackmagic Design\DaVinci Resolve\Support\.LUT\DCTL
+   (con il punto davanti a LUT): e' la cache interna in cui Resolve salva
+   i DCTL gia' compilati (file *.dctle_3_mathlut). Un .dctl messo li'
+   non viene letto.
+
+   Nota: "ProgramData" e' una cartella nascosta. Il modo piu' rapido
+   e' incollare il percorso qui sopra nella barra degli indirizzi di
+   Esplora File e premere Invio. Puo' essere richiesta la conferma
+   da amministratore per copiare il file.
+
+MAC
+   /Library/Application Support/Blackmagic Design/DaVinci Resolve/LUT/
+
+   Attenzione: e' la Libreria di SISTEMA (quella nella radice del
+   disco), NON quella dell'utente (~/Library).
+   Nel Finder: menu Vai > Vai alla cartella... (Cmd+Shift+G),
+   incolla il percorso e premi Invio. Verra' chiesta la password.
+
+LINUX
+   /opt/resolve/LUT/
+
+
+-------------------------------------------------------------------
+COME USARLO
+-------------------------------------------------------------------
+Il DCTL si applica nella pagina COLOR, su un nodo.
+
+1. (in EDIT, opzionale ma comodo) Effects > Toolbox > Effects >
+   "Adjustment Clip": trascinalo sulla traccia video piu' alta, lungo
+   tutta la timeline. Cosi' l'overlay vale per tutti i clip sotto.
+2. Vai in COLOR e seleziona quella clip (o il clip su cui vuoi vederlo).
+3. Pannello OpenFX > Filters > ResolveFX Color > "DCTL": trascinalo sul
+   nodo (o crea un nodo seriale nuovo e trascinacelo sopra).
+4. Nelle impostazioni dell'effetto, DCTL List > scegli
+   "AnotherPerspective_SafeZones".
+5. Scegli Piattaforma e Modalita' (Safe area / Mockup).
+
+!! PRIMA DEL RENDER: disattiva l'overlay, altrimenti finisce nel video
+   esportato. In COLOR basta disabilitare il nodo (tasto D con il nodo
+   selezionato); se hai usato l'Adjustment Clip, in EDIT selezionalo e
+   premi D.
+
+Se l'overlay appare sottosopra: spunta "Correggi se capovolto".
+Se nella lista DCTL il file non compare o da' errore: controlla che
+l'estensione sia .dctl (e non .dctl.txt) e rifai "Update Lists".
