@@ -2,8 +2,7 @@
 
 # SafeZones by Another Perspective Pictures — Notices
 
-> **Draft of 12 November 2026**, to be reviewed by a lawyer before it is considered final.
-> _Bozza del 12/11/2026, da far leggere a un legale prima di considerarla definitiva._
+_Last updated: 12 November 2026 · Ultimo aggiornamento: 12 novembre 2026_
 
 **English** · [Italiano](#italiano)
 
