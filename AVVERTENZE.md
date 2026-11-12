@@ -18,6 +18,8 @@ _Last updated: 12 November 2026 · Ultimo aggiornamento: 12 novembre 2026_
 - It is provided as is, without any warranty.
 - You use it at your own risk: deliveries with visible guides, text in the wrong place and lost time are on you.
 - Another Perspective Pictures SRL and the authors are not liable for damages, as far as the law allows.
+- You release Another Perspective Pictures SRL and the authors from any liability for your use of SafeZones and hold them harmless (indemnity).
+- The only official copies are the ones on our website and on our GitHub: copies taken elsewhere are not ours.
 - This also applies to future versions, "beta" or not.
 - Turn the guides off before exporting and check the exported file.
 
@@ -37,6 +39,10 @@ _Last updated: 12 November 2026 · Ultimo aggiornamento: 12 novembre 2026_
 
 **Liability.** Another Perspective Pictures SRL and the authors of SafeZones are not liable for damages caused by using SafeZones or by it not working, as far as the law allows.
 
+**Indemnity.** You release Another Perspective Pictures SRL and the authors of SafeZones from any liability for your use of SafeZones, and you hold them harmless from any claim, including claims by your clients, by the platforms or by other third parties, that arises from your use of SafeZones or from the material you make with it.
+
+**Official copies.** The official copies of SafeZones are only the ones you download from our website (anotherperspectivepictures.com) or from our GitHub (github.com/AnotherPerspective/SafeZones). The MIT License lets anyone share and change SafeZones: copies or versions obtained elsewhere are not ours, and we do not answer for them.
+
 **Trademarks.** DaVinci Resolve is a trademark of Blackmagic Design. Adobe and Premiere Pro are trademarks of Adobe Inc. TikTok, Instagram, Facebook, YouTube, LinkedIn, Snapchat and Pinterest belong to their owners, and the mockups are simplified drawings of their apps. SafeZones is not affiliated with or endorsed by any of them.
 
 **For professionals.** SafeZones is meant for video professionals who are used to checking their work before delivering it.
@@ -47,7 +53,7 @@ _Last updated: 12 November 2026 · Ultimo aggiornamento: 12 novembre 2026_
 
 **Reports.** Problems and suggestions to info@anotherperspectivepictures.com. We are glad to read them, but writing to us does not oblige us to answer, fix anything or provide support.
 
-**Acceptance.** By downloading, installing or using SafeZones you accept these terms.
+**Acceptance.** By downloading, installing or using SafeZones you accept these terms. When you download it from our website, you confirm it by ticking the box: as a record of your acceptance we keep your email address, the date and time, your IP address and the version of these notices, for 10 years. The newsletter is a separate, optional box: you do not need it to download.
 
 ---
 
@@ -69,6 +75,8 @@ _Last updated: 12 November 2026 · Ultimo aggiornamento: 12 novembre 2026_
 - È fornito così com'è, senza garanzie.
 - Lo usi a tuo rischio: consegne con le guide visibili, testi fuori posto e tempo perso sono a tuo carico.
 - Another Perspective Pictures SRL e gli autori non rispondono di danni, nei limiti della legge.
+- Sollevi Another Perspective Pictures SRL e gli autori da ogni responsabilità per l'uso che fai di SafeZones e li tieni indenni (manleva).
+- Le uniche copie ufficiali sono quelle sul nostro sito e sul nostro GitHub: le copie prese altrove non sono nostre.
 - Vale anche per le versioni future, «beta» o no.
 - Spegni le guide prima di esportare e controlla il file esportato.
 
@@ -88,6 +96,10 @@ _Last updated: 12 November 2026 · Ultimo aggiornamento: 12 novembre 2026_
 
 **Responsabilità.** Another Perspective Pictures SRL e gli autori di SafeZones non rispondono di danni causati dall'uso di SafeZones o dal suo mancato funzionamento, nei limiti consentiti dalla legge.
 
+**Manleva.** Sollevi Another Perspective Pictures SRL e gli autori di SafeZones da ogni responsabilità per l'uso che fai di SafeZones, e li tieni indenni da qualsiasi richiesta, anche dei tuoi clienti, delle piattaforme o di altri terzi, che nasca dall'uso di SafeZones o dal materiale che realizzi con esso.
+
+**Copie ufficiali.** Le copie ufficiali di SafeZones sono solo quelle che scarichi dal nostro sito (anotherperspectivepictures.com) o dal nostro GitHub (github.com/AnotherPerspective/SafeZones). La licenza MIT permette a chiunque di condividere e modificare SafeZones: le copie o le versioni prese altrove non sono nostre e non ne rispondiamo.
+
 **Marchi.** DaVinci Resolve è un marchio di Blackmagic Design. Adobe e Premiere Pro sono marchi di Adobe Inc. TikTok, Instagram, Facebook, YouTube, LinkedIn, Snapchat e Pinterest appartengono ai loro proprietari, e le simulazioni sono disegni semplificati delle loro app. SafeZones non è affiliato a nessuno di loro né approvato da loro.
 
 **Per professionisti.** SafeZones è pensato per professionisti del video, abituati a controllare il proprio lavoro prima di consegnarlo.
@@ -98,4 +110,4 @@ _Last updated: 12 November 2026 · Ultimo aggiornamento: 12 novembre 2026_
 
 **Segnalazioni.** Problemi e suggerimenti a info@anotherperspectivepictures.com. Li leggiamo volentieri, ma scrivere non ci obbliga a rispondere, correggere o dare assistenza.
 
-**Accettazione.** Scaricando, installando o usando SafeZones accetti queste condizioni.
+**Accettazione.** Scaricando, installando o usando SafeZones accetti queste condizioni. Quando lo scarichi dal nostro sito lo confermi con la spunta: come prova della tua accettazione conserviamo il tuo indirizzo email, la data e l'ora, il tuo indirizzo IP e la versione di queste avvertenze, per 10 anni. La newsletter è una casella a parte e facoltativa: per scaricare non serve.
